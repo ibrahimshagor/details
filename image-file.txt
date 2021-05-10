@@ -1,0 +1,18 @@
+profile: https://i.postimg.cc/m2RNjLPn/1-a.jpg
+cover: https://i.postimg.cc/vZKVJbmb/bgwp.jpg
+favicon: https://i.postimg.cc/Vv76XWrm/favicon.png
+
+TM1: https://i.postimg.cc/BvGqLVY2/tm1.jpg
+TM2: https://i.postimg.cc/XvwYsbG2/tm2.jpg
+
+gra1: https://i.postimg.cc/L8m3rPxb/gra1.jpg
+gra2: https://i.postimg.cc/L8v3Rs76/gra2.jpg
+gra3: https://i.postimg.cc/hv9VY4Tn/gra3.png
+
+web1: https://i.postimg.cc/05mGjn34/web1.jpg
+web2: https://i.postimg.cc/jjLPb4PZ/web2.jpg
+web3: https://i.postimg.cc/zX7gHckx/web3.jpg
+
+wp1: https://i.postimg.cc/zGPH0H6W/wp1.jpg
+wp2: https://i.postimg.cc/Y03hgvQv/wp2.jpg
+wp3: https://i.postimg.cc/44bKjSjX/wp3.jpg
