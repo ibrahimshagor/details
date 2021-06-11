@@ -18,9 +18,9 @@
   $contact->ajax = true;
   
   $contact->to = $receiving_email_address;
-  $contact->from_name = $_POST['name'];
-  $contact->from_email = $_POST['email'];
-  $contact->subject = $_POST['subject'];
+  $contact->from_name = $_POST['sender_name'];
+  $contact->from_email = $_POST['email_address'];
+  $contact->subject = $_POST['form_subject'];
 
   // Uncomment below code if you want to use SMTP to send emails. You need to enter your correct SMTP credentials
   
