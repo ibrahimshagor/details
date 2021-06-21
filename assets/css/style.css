@@ -125,7 +125,7 @@ h1, h2, h3, h4, h5, h6 {
   overflow-y: auto;
 }
 
-@media (max-width: 992px) {
+@media (max-width: 991px) {
   #header {
     width: 300px;
     background: #fff;
