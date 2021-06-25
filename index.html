@@ -644,6 +644,11 @@
 $(document).bind("contextmenu",function(e){
   return false;
     });
+    
+    document.querySelector('a').onclick = function(event) {
+  event.preventDefault();
+  //do stuff
+};
 </script>
 
 </body>
